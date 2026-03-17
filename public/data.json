@@ -1,0 +1,9 @@
+{
+  "galleryName": "Velocity Exotic Cars",
+  "items": [
+    { "id": 1, "name": "Porsche 911 GT3 RS Rental", "image": "../src/assets/car1.jpg", "category": "Sport" },
+    { "id": 2, "name": "Jeep Wrangler", "image": "../src/assets/car2.jpg", "category": "SUV" },
+    { "id": 3, "name": "Electric Concept", "image": "../src/assets/car3.jpg", "category": "EV" }
+    
+  ]
+}
